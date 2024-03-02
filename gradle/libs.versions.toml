@@ -10,7 +10,7 @@ grails-testing-support = '3.1.2'
 groovy = '3.0.11'
 java-baseline = '11'
 micronaut = '3.10.3'
-slf4j = '1.7.36'
+slf4j = '2.0.12'
 spock = '2.3-groovy-3.0'
 spring-boot = '2.7.18'
 
